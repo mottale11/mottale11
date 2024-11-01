@@ -43,6 +43,10 @@ Let’s connect and build something amazing together! 🚀
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mottale11&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mottale11&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=mottale11&label=Profile%20Views&pretty=false" />
+</a>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
