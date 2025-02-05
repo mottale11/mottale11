@@ -1,24 +1,35 @@
 👋 Hello, World! I'm Mottale
 
 💫 About Me:
-I'm a passionate learner currently diving into the world of Software Development at PLP Africa. My journey in tech has just begun, but I'm already captivated by the endless possibilities coding offers. <br>
+ I'm a passionate and innovative Full-Stack Developer with a knack for turning ideas into impactful solutions. I thrive on solving complex problems, writing clean and efficient code, and continuously learning new technologies to stay ahead of the curve.
+ <br>
+
+ *Technical Expertise*: 
+ Proficient in  Python, JavaScript, React, Node.js, HTML, CSS Express.js, Dart with flutter, with hands-on experience in building scalable web applications, mobile applications, Database design and Management, machine learning models,  automation tools.
+ 
+*Problem-Solving Mindset*: 
+I love tackling challenges head-on, whether it's optimizing algorithms, debugging tricky issues, or designing intuitive user experiences.
+
+*Collaboration & Communication*: 
+I believe in the power of teamwork and clear communication. I enjoy working in cross-functional teams, sharing knowledge, and contributing to open-source projects.
+
+*Continuous Learner*:
+The tech world evolves fast, and I’m always upskilling. Whether it’s diving into a new framework, exploring cloud technologies, or experimenting with AI, I’m committed to growth.
+
 
 🔍 Interests:
-- Database Design and Programming
-- Web Development
+- Database Design and Management
+- Web Technologies
+- Sotware Solutions
 - Problem Solving
 - Open Source Contributions
+- Networking
 
-💻 Currently Learning:
-- Database Design & Programming
-- HTML, CSS, and JavaScript
-- Dart & Flutter
-- Collaborative Software Development
 
   <br>
 
 🤝 Looking to Collaborate On:
-- Beginner-friendly projects that push the boundaries of creativity
+- Diverse projects that push the boundaries of creativity
 - Open source contributions that make a difference
 - Coding challenges that sharpen my problem-solving skills
 <br>
